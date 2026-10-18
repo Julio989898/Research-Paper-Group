@@ -3,3 +3,5 @@ Research Paper Group Members and Tasks
 2. Jeorge - Results and Conclusion
 
 Progress: Introduction and Results sections merged to main.
+
+Progress: Introduction and Results sections merged to main.
